@@ -1,1 +1,1 @@
-`2.5d segmentation for LiTS2017`
+`2.5d segmentation for LITS2017`
